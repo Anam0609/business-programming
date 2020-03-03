@@ -1,0 +1,17 @@
+List 5 advantages and 5 disadvantages of V-model methodologies.
+
+Advantages
+
+1. Each phase has specific deliveries
+2. Higher chances of success over the waterfall model due to the development test plans early on during the life cycle
+3. Time concern in comparison with the waterfall mode is low or even we can say 50% less
+4. Works well for small projects where requirements are easily understood
+5. Utility of the resources is high.
+
+Disadvantages
+
+1. Very rigid, like the waterfall model.
+2. Little flexibility and adjusting scope is difficult and expensive
+3. Software is developed during the implementation phase, so no early prototypes of the software are produced.
+4. V model doesn't provide a clear path for problems found during testing phases.  
+5. if any changes happen in midway, then the test documents along with requirement documents has to be updated.
